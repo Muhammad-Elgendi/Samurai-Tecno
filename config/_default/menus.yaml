@@ -10,3 +10,9 @@ main:
   - name: Services
     url: services/
     weight: 20
+  - name: About
+    url: about/
+    weight: 30
+  - name: Request A Quote
+    url: contact/
+    weight: 40
