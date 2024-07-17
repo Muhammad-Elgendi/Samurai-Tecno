@@ -16,8 +16,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'IT company'
+    org_name: 'Samurai Tecno'
     description: 'Delivering top-notch solutions in Flutter, Android, and mobile development, web development, DevOps, and graphic UI/UX design. Our mission is to empower businesses with cutting-edge technology.'
     twitter: 'GetResearchDev'
   analytics:
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Samurai Tecno.'
     license:
       enable: true
       allow_derivatives: false
