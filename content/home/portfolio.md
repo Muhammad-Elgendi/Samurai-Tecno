@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Mobile App Development
+      tag: mobile
+    - name: Web App Development
+      tag: web
+    - name: DevOps
+      tag: devops
+    - name: UI/UX Design
+      tag: ux-design
 
 design:
   columns: '1'
