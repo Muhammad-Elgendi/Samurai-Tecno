@@ -16,9 +16,9 @@ name = "Starter Blog"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]
-  primary = "#bbdefb"
-  link = "#5c5e64"
-  link_hover = "#5c5e64"
+  primary = "#5c5e64"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
   background = "rgb(26, 32, 44)"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"
